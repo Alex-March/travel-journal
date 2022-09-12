@@ -1,0 +1,21 @@
+nav {
+  background: #f55a5a;
+  /* background-size: 550px; */
+  height: 55px;
+  width: 550px;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 27px;
+}
+
+.title {
+  font-family: "Inter", sans-serif;
+  font-weight: 500;
+  font-size: 15px;
+}
+
+.globe-logo {
+    padding-right: 7px;
+}
