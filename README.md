@@ -1,3 +1,7 @@
+Can view the final result in the following link:
+
+https://spectacular-dodol-dd13e4.netlify.app
+
 Project created with React components, pulling in data in a systematic way from data.js file.
 Visuals created based on the following Figma mock-up file:
 https://scrimba.com/links/figma-travel-journal-sap
